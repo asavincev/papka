@@ -2,7 +2,7 @@ let moment = require("moment")
 
 
 let ab = [1]
-console.log(moment().format())
+console.log("sasfasd")
 
 let a = 23222
 
